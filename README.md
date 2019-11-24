@@ -51,7 +51,7 @@ for ammarr in jihan:
 
 ![daftar](https://github.com/putrinabila2301/Praktikum-5/blob/master/input.PNG)
 
-![daftar](
+![daftar](https://github.com/putrinabila2301/Praktikum-5/blob/master/input2.PNG)
 
 # Berikut adalah Outputnya:
 
