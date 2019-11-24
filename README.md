@@ -49,7 +49,7 @@ for ammarr in jihan:
 
 # Berikut adalah Inputnya :
 
-![daftar](
+![daftar](https://github.com/putrinabila2301/Praktikum-5/blob/master/input.PNG)
 
 ![daftar](
 
