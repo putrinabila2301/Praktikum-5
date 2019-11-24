@@ -3,11 +3,9 @@
 # Pada praktikum kali ini saya akan membuat program sederhana tentang menambahkan sebuah data kedalam sebuah list:
  Berikut Source Code & Penjelasanya:
 
-jihan = []                                              (Membuat list nilai kosong)
-
-nomor = 1            
-
-while True:                                             (Looping)
+jihan = [](Membuat list nilai kosong)
+nomor = 1        
+while True: (Looping)
 
     Nama = input("Masukan nama:")                       (Membuat variable nama untuk list dan menginputkan data)
     NIM  = input("Masukan nim:")                        (Membuat variable nim untuk list dan menginputkan data)
