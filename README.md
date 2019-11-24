@@ -55,7 +55,7 @@ for ammarr in jihan:
 
 # Berikut adalah Outputnya:
 
-![daftar](
+![daftar](https://github.com/putrinabila2301/Praktikum-5/blob/master/output.PNG)
 
 # Berikut adalah Flowchartnya:
 
