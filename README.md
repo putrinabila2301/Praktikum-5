@@ -4,8 +4,11 @@
  Berikut Source Code & Penjelasanya:
 
 jihan = []                                              (Membuat list nilai kosong)
-nomor = 1                                               
+
+nomor = 1            
+
 while True:                                             (Looping)
+
     Nama = input("Masukan nama:")                       (Membuat variable nama untuk list dan menginputkan data)
     NIM  = input("Masukan nim:")                        (Membuat variable nim untuk list dan menginputkan data)
     NilaiTugas = int(input("Masukan tugas: "))          (Membuat variable tugas untuk list dan menginputkan data)
@@ -23,10 +26,12 @@ while True:                                             (Looping)
     nomor = nomor + 1
     if putri == "t":
         break
+        
 #print("=====================================================")
 #print("| No |    Nama    |  NIM  | Tugas | UTS |  UAS | Akhir|")
 #print("======================================================")
 for ammarr in jihan:
+
     print("| {nomor:2} | {Nama:2} "                     (Mengatur posisi tabel)
           "| {NIM:2} | {NilaiTugas:2} "
           "| {NilaiUTS:2} | {NilaiUAS:2} "
