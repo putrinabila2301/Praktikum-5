@@ -59,5 +59,5 @@ for ammarr in jihan:
 
 # Berikut adalah Flowchartnya:
 
-![daftar](
+![daftar](https://github.com/putrinabila2301/Praktikum-5/blob/master/flowchartTP5.png)
 
