@@ -23,9 +23,9 @@ while True:                                             (Looping)
     nomor = nomor + 1
     if putri == "t":
         break
-# print("=====================================================")
-# print("| No |    Nama    |  NIM  | Tugas | UTS |  UAS | Akhir|")
-# print("======================================================")
+#print("=====================================================")
+#print("| No |    Nama    |  NIM  | Tugas | UTS |  UAS | Akhir|")
+#print("======================================================")
 for ammarr in jihan:
     print("| {nomor:2} | {Nama:2} "                     (Mengatur posisi tabel)
           "| {NIM:2} | {NilaiTugas:2} "
@@ -37,7 +37,7 @@ for ammarr in jihan:
                   NilaiUAS=ammarr[4],
                   NilaiAkhir =ammarr[5],
                   nomor=ammarr[6]))
-# print("======================================================")
+#print("======================================================")
 
 # Berikut adalah Inputnya :
 
